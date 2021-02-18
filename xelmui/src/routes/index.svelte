@@ -1,11 +1,8 @@
 <style lang="postcss">
-  .btn {
-    @apply bg-indigo-500 text-indigo-100 uppercase tracking-wide font-semibold text-4xl px-4 py-3 shadow-lg rounded;
-  }
 </style>
 
 <svelte:head>
-  <title>Sapper project template</title>
+  <title>xelmui | home</title>
 </svelte:head>
 
 <div class="space-y-10 text-center">
